@@ -1,4 +1,4 @@
-# Churn Analysis and Customer Intelligence
+# Churn nalysis and Customer Intelligence
 
 A data analysis project focused on understanding customer churn, subscription behavior, customer satisfaction, and retention opportunities using Python, Pandas, NumPy, Matplotlib, Seaborn, and SQLite.
 
